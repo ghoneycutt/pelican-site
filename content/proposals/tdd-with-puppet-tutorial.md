@@ -25,7 +25,6 @@ though the attendee can use their Linux or OSX based system.
 * Writing tests for
   * Manifests
   * Functions
-  * Facts
 * Travis-ci.org
   * How to setup on GitHub
   * How to configure your puppet module
@@ -39,8 +38,10 @@ Speaker
 -------
 
 Garrett Honeycutt <gh@learnpuppet.com>
+@learnpuppet
+http://learnpuppet.com
 
-Garrett Honeycutt has been hacking *nix based systems and spreading the merits of open source software for over fifteen years. He began using Puppet in 2007 while building out a national carrier grade VoIP system.  Previously he has worked on such things as building core internet infrastructure for an ISP, creating mobile media distribution platforms, and as a Professional Services Engineer with Puppet Labs helped customers around the world with Puppet, DevOps processes, and project management. He is the Puppet Architect at Ericsson in Stockholm where he coordinates with and mentors those writing Puppet code for their global R&D sites.
+Garrett Honeycutt has been hacking *nix based systems and spreading the merits of open source software for over fifteen years. He began using Puppet in 2007 while building out a national carrier grade VoIP system.  Previously he has worked on such things as building core internet infrastructure for an ISP, creating mobile media distribution platforms, and as a Professional Services Engineer with Puppet Labs helped customers around the world with Puppet, DevOps processes, and project management. He was most recently the Puppet Architect at Ericsson in Stockholm where he coordinated with and mentored those writing Puppet code for their global R&D sites. Currently he is offering consulting and training on Puppet.
 
 He has consulted for many different types of companies from small startups to global multinationals in the finance, entertainment, automotive, manufacturing, retail, nonprofit, government, telecommunications, and technology sectors.
 
